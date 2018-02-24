@@ -1,0 +1,223 @@
+
+.Build-storm{
+    width:900px;
+    height:655px;
+    position:relative;
+    margin:0 auto;
+}
+.Build-top {
+    margin: 0 auto;
+    width: 900px;
+    height: 45px;
+    background-color: black;
+    margin-top: 53px;
+    position:relative;
+}
+
+.Build-left {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    left: 77px;
+}
+.Build-img2{
+    position:absolute;
+    left:771px;
+    top:10px;
+}
+.Build-right {
+
+}
+
+.Build-content {
+    width: 900px;
+    height: 636px;
+    margin: 0 auto;
+    background-color: #F4F4F4;
+    position: relative;
+
+}
+
+.Build-content-word {
+    width: 840px;
+    height: 589px;
+    background-color: white;
+    margin: 0 auto;
+
+    position: absolute;
+    top: 23px;
+    left: 30px;
+
+}
+
+.Build-left-word {
+    margin-top:0px;
+    margin-left:72px;
+}
+
+.Build-word .plantitle {
+    position: absolute;
+    /* top: 10px; */
+    /* top: 0; */
+    /* left: 0; */
+    /* bottom: 0; */
+    /* right: 0; */
+    /* left: 139px; */
+    top: 42px;
+    left: 114px;
+}
+
+.wrapplan {
+    position: absolute;
+    left: -55px;
+}
+
+.Build-wrapcontent {
+    position: absolute;
+    left: -138px;
+    font-size: 16px;
+    top:74px;
+}
+
+.plantitle input {
+    width: 651px;
+}
+
+.Build-plancontent {
+    position: absolute;
+    top: -55px;
+    left: 165px;
+    margin-top: 16px
+}
+
+.Build-plancontent .Build-big {
+    width: 343px;
+    height: 139px;
+}
+
+.Buildplan {
+    position: absolute;
+    top: 495px;
+    width: 89px;
+    height: 29px;
+    border-radius: 10px;
+    border: none;
+}
+
+.Build-selecttime {
+    position: absolute;
+    left: -137px;
+    top: 201px;
+    font-size: 16px;
+}
+
+.add {
+    position: absolute;
+    top: 273px;
+}
+
+.Build-movetime {
+    position: absolute;
+    top: 199px;
+    left:-66px;
+}
+
+.Build-task {
+    position: absolute;
+    top: 279px;
+    left: -138px;
+}
+
+.task-tip {
+    white-space: nowrap;
+    left: 14px;
+    position: absolute;
+    font-size: 16px;
+    top: -5px;
+}
+
+.select-tip {
+    width: 357px;
+    white-space: nowrap;
+    position: absolute;
+    left:6px;
+    top: -14px;
+}
+
+.task-sap {
+    white-space: nowrap;
+    position: absolute;
+    top: 59px;
+    left: 14px;
+    font-size: 16px;
+}
+
+.select-sap  {
+    width: 359px;
+    white-space: normal;
+    position: absolute;
+    left: 58px;
+    top: -5px;
+}
+
+.task-exam {
+    white-space: nowrap;
+    position: absolute;
+    top: 119px;
+    font-size: 16px;
+    left:14px;
+}
+
+.select-exam {
+    width: 361px;
+    white-space: normal;
+    position: absolute;
+    left: 59px;
+    top: -4px;
+}
+
+.task-join {
+    white-space: nowrap;
+    position: absolute;
+    top: 180px;
+    font-size: 16px;
+    left:14px;
+}
+
+.select-join{
+    width: 361px;
+    white-space: nowrap;
+    position: absolute;
+    top: -2px;
+    left: 60px;
+}
+.Build-plan{
+    position: absolute;
+    left: 53px;
+    top: 502px;
+}
+.arrow-left{
+    font-size: 21px;
+    position: absolute;
+    left: -25px;
+    top: -3px;
+}
+.arrow-right{
+    position: absolute;
+    left:6px;
+    font-size: 21px;
+    top: -3px;
+}
+.arrow-upload{
+    position: absolute;
+    top: -2px;
+    left: 34px;
+}
+.Build-slip{
+    position: absolute;
+    top:-22px;
+    left:6px;
+    font-size: 15px;
+    color:blue;
+}

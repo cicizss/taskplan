@@ -1,0 +1,128 @@
+.New-middle{
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+.New-top{
+    width: 900px;
+    height: 55px;
+    background-color: black;
+    margin-top: 27px;
+}
+.New-left{
+    position: absolute;
+    top: 11px;
+    left: 53px;
+    width: 158px;
+    height: 129px;
+}
+.New-img1{
+    position:absolute;
+    top:17px;
+}
+.New-img2{
+    position: absolute;
+    right: 32px;
+    top: 12px;
+    padding-right: 15px;
+}
+img{
+    padding:5px;
+}
+.New-content{
+    width: 900px;
+    height: 555px;
+    background-color: #F4F4F4;
+
+}
+.New-content-word{
+    width: 840px;
+    height: 511px;
+    background-color: white;
+    margin: 0 auto;
+
+}
+.New-left-word{
+    position: absolute;
+    top: 5px;
+    color: white;
+    left: 108px;
+    font-size: 15px;
+}
+.New-content-word .plantitle{
+    position: absolute;
+    top: 83px;
+    left: 114px;
+}
+.wrapplan{
+    position:absolute;
+    left:-91px;
+}
+.wrapcontent{
+    display: inline;
+    position: absolute;
+    left: -55px;
+    top: 28px;
+}
+.plantitle input{
+
+    height:30px;
+}
+.plancontent{
+
+    position: absolute;
+    top: 139px;
+    left: 116px
+}
+.plancontent .big{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    width: 652px;
+    height: 192px;
+}
+.createplan{
+    position: absolute;
+    top: 350px;
+    width: 89px;
+    height: 29px;
+    border-radius: 10px;
+    border: none;
+}
+
+.selecttime{
+    position: absolute;
+    top: 151px;
+    left:-60px;
+}
+.addWord{
+   position: absolute;
+    top:78px;
+}
+.movetime{
+    position: absolute;
+    top:143px;
+    left:-3px;
+    width:100px;
+}
+.build-bottom{
+    position: absolute;
+    top:187px;
+}
+.new-left{
+    color: white;
+    font-size: 23px;
+    position: absolute;
+}
+.new-right{
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    left: 31px;
+}
+.new-upload{
+    position: absolute;
+    left: 66px;
+    top: 1px;
+}

@@ -1,0 +1,61 @@
+.header-top{
+    margin:0 auto;
+    width:900px;
+    height:45px;
+    background-color: black;
+    margin-top:53px;
+}
+.main{
+    width:900px;
+    height:636px;
+    margin:0 auto;
+    background-color: #F4F4F4;
+    position:relative;
+}
+.mian-content{
+    width: 840px;
+    height: 589px;
+    background-color: white;
+    margin: 0 auto;
+    /* margin-top: 27px; */
+    /* top: 16px; */
+    /* padding-top: 31px; */
+    position: absolute;
+    top: 23px;
+    left: 30px;
+}
+.attachment-list{
+    position: absolute;
+    color: white;
+  margin-left:17px;
+    top: 10px;
+    font-size: 18px;
+}
+.content-person{
+    position: absolute;
+    left: 26px;
+    top: 28px;
+    font-size: 15px;
+}
+.content-select{
+    position: absolute;
+    top: 23px;
+    left: 96px;
+}
+.select-right{
+    position: absolute;
+    left: 32px;
+    top: 77px;
+}
+.clickbutton{
+    position: absolute;
+    top: 58px;
+    left: 294px;
+    display: flex;
+}
+
+.selector-check{
+    position:absolute;
+    top:25px;
+    left:76px;
+}

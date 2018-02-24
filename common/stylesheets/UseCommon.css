@@ -1,0 +1,62 @@
+.container{
+    width: 280px;
+    height: 484px;
+    position: absolute;
+    /* background-color: pink; */
+    top: 72px;
+    left: 395px;
+    border: 2px solid #F4F4F4;
+    z-index:10000000;
+}
+.select-wrap {
+    margin-top:4px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.person-list{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    left: 20px;
+    top: 83px;
+}
+.person-images{
+    width: 44px;
+    height: 40px;
+    border-radius: 58px;
+    position:relative;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.person-images img{
+    width:50px;
+    height:50px;
+    position:absolute;
+    top:9px;
+    border-radius: 30px;
+}
+.person-name{
+    display: inline-block;
+    margin-top: 21px;
+    position: absolute;
+    margin-left:67px;
+    font-size:14px;
+}
+.select-input{
+    position:absolute;
+    left:11px;
+    top:39px;
+}
+.select-find{
+    position:absolute;
+    left:192px;
+    top:1px;
+}
+.select-color{
+    width:277px;
+    height:55px;
+    background-color:#F2F2F2;
+    margin-top:2px;
+}

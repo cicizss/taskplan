@@ -1,0 +1,41 @@
+.united-image{
+    width:60px;
+    height:60px;
+    border-radius:12px;
+    margin-top:7px;
+}
+.clear{
+    clear:both;
+}
+.united{
+    margin-top:23px;
+    margin-left:174px;
+}
+.united-left{
+    float:left;
+    margin-left:-164px;
+    margin-top:-14px;
+}
+.united-right{
+    margin-left:-97px;
+
+}
+.united-name{
+    font-size: 15px;
+    margin-top:25px;
+}
+.united-say{
+    font-size:17px;
+    font-weight:600;
+}
+.endButton{
+    margin-left:33px;
+    font-size:15px;
+    color:blue;
+}
+.united-create{
+    margin-left:-173px;
+    margin-top:10px;
+    height:439px;
+    overflow-y: scroll;
+}

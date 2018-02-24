@@ -1,0 +1,29 @@
+@import '../../node_modules/antd/dist/antd.css';
+@import "Login.css";
+@import "TaskList.css";
+@import "NewPlan.css";
+@import "PlanDetails.css";
+@import "AttachmentList.css";
+@import "BuildTask.css";
+@import "UseCommon.css";
+@import "CommentApp.css";
+@import "TaskDetails.css";
+@import "MyCreate.css";
+@import "TaskList.css";
+@import "TaskPlan.css";
+@import "TaskPerson.css";
+@import "PlanAttachment.css";
+@import "MyReacive.css";
+@import "PlanList.css";
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  position:relative;
+}
+::-webkit-scrollbar
+{
+  display:none;
+  width: 0px;
+  height: 0px;
+}
