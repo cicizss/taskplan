@@ -1,0 +1,144 @@
+.details-main{
+    position:relative;
+    width: 900px;
+    margin: 0 auto;
+}
+.header-content{
+    margin:0 auto;
+    width:900px;
+    height:45px;
+    background-color: black;
+    margin-top:53px;
+    position:relative;
+
+}
+.header-left{
+    color:white;
+    font-size:16px;
+    position:absolute;
+    top:10px;
+    left:51px;
+
+}
+.header-left img{
+
+}
+.header-right{
+    position:absolute;
+    left:789px;
+    top:12px;
+}
+.header-right img{
+    padding:5px;
+}
+.content{
+    width: 900px;
+    height: 900px;
+    margin: 0 auto;
+    background-color: #F4F4F4;
+    position: relative;
+}
+.content-main{
+    width: 841px;
+    background-color: white;
+    /* position: absolute; */
+    left: 36px;
+    position: absolute;
+    top: 22px;
+    height:773px;
+}
+.plan_one{
+    position: absolute;
+    top: 14px;
+    left: 23px;
+    font-size: 18px;
+    color: #F78E3D;
+    white-space: initial;
+    display: flex;
+}
+.content-title{
+    position: absolute;
+    top: 43px;
+    left: 31px;
+    font-size: 16px;
+}
+.content-middle{
+    position: absolute;
+    top: 86px;
+    left: 31px;
+}
+.attachment{
+    position: absolute;
+    left: 21px;
+    top: 126px;
+    display: flex;
+    font-size: 17px
+}
+.content-middle{
+
+}
+.header-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 24px;
+    position: absolute;
+    top: 223px;
+    left: 588px;
+}
+.createperson{
+    position: absolute;
+    top: 227px;
+    left: 662px;
+    /* display: flex; */
+    display: grid;
+    width: 60px;
+
+}
+.tasklist{
+    position: absolute;
+    top: 298px;
+    left: 600px;
+    width:100px;
+}
+.comment-input{
+    display: flex;
+}
+.comment-input input{
+    flex:1;
+}
+.comment-input span{
+    display: flex;
+    align-items: center;
+}
+.content-tip{
+    position: absolute;
+    left: -531px;
+    top: 20px;
+    display: flex;
+    font-size: 17px;
+}
+.PlanComment{
+    position: absolute;
+    left: 0;
+    top: -98px;
+}
+.DetailsReturn{
+    color:blue;
+    position: absolute;
+    left: 40px;
+    font-size: 15px;
+}
+.createState{
+    width: 83px;
+    margin-left: 597px;
+    margin-top: -35px;
+    border: 1px solid blue;
+    text-align: center;
+    height:30px;
+}
+.fromTask{
+    font-size:16px;
+    font-weight:400;
+}
+
+

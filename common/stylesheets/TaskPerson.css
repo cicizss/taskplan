@@ -1,0 +1,46 @@
+.user-role{
+    margin-top:70px;
+}
+.user-realName{
+    margin-top:73px;
+}
+.user-starttime{
+    margin-top:166px;
+}
+.user-endtime{
+    margin-top:108px;
+}
+.user-reply{
+
+}
+.listStatus{
+    position:absolute;
+    top:4px;
+    left:289px;
+}
+.ReturnPerson{
+    color:blue;
+    position:absolute;
+    font-size:15px;
+    left:36px;
+}
+.MyStatus{
+    margin-left:10px;
+    margin-top:22px;
+    display:inline-block;
+}
+.selector{
+margin-left:42px;
+    margin-top:6px;
+}
+.createMy{
+    margin-top:73px;
+    margin-left:-23px;
+    overflow-y: scroll;
+    height: 450px;
+}
+.slector{
+    position:absolute;
+    top:12px;
+    left:22px;
+}

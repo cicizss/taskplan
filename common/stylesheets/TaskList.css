@@ -1,0 +1,87 @@
+.list-desk{
+    width:900px;
+    height:699px;
+    position:relative;
+    margin:0 auto;
+}
+.list-top {
+    margin: 0 auto;
+    width: 900px;
+    height: 45px;
+    background-color: black;
+    margin-top: 53px;
+    left:528px;
+}
+
+.list-left {
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    top: 10px;
+    margin-left:44px;
+}
+
+.list-right {
+    position: absolute;
+    left:1214px;
+    top: 8px;
+}
+.list-right img{
+
+}
+.main {
+    width: 900px;
+    height: 636px;
+    margin: 0 auto;
+    background-color: #F4F4F4;
+    position: relative;
+
+}
+
+.attachment {
+
+}
+
+.main-content {
+    width: 840px;
+    height: 589px;
+    background-color: white;
+    margin: 0 auto;
+    /* margin-top: 27px; */
+    /* top: 16px; */
+    /* padding-top: 31px; */
+    position: absolute;
+    top: 23px;
+    left: 30px;
+
+}
+
+.listtask {
+    position: absolute;
+    top: -8px;
+    left: 245px;
+}
+
+.listtask-status {
+
+    /* top: 8px; */
+    display: inline-block;
+    padding: 17px;
+    color: white;
+}
+
+.addtips {
+    position: absolute;
+    top: 12px;
+    right:39px;
+    color: #108EEC;
+    font-size:16px;
+}
+.ant-tabs-nav .ant-tabs-tab:last-child{
+    margin-right: 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+.movetime {
+
+}
